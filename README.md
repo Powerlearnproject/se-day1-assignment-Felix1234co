@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15674567&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 Software engineering is a discipline that involves the application of engineering principles to the design, development, testing, and maintenance of software systems. It is a systematic approach to creating software that ensures the final product is reliable, efficient, maintainable, and meets the specified requirements. This field combines principles from computer science, mathematics, and management to solve complex problems and deliver high-quality software solutions.
